@@ -3,9 +3,12 @@
 # [About me   ](https://github.com/ashutoshrazz)
 
 ## I put my project under four repositories  :
--[ Python Project ](link of the project )
--[ Data Analysis ](https://github.com/dataAnalyst)
- -[ Dashboard  ](link of the project)
+ 
+  -[ Python Project ](link of the project )
+  
+  -[ Data Analysis ](https://github.com/dataAnalyst)
+  
+  -[ Dashboard  ](link of the project)
 
 
   # Checkout my other profiles :
