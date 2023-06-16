@@ -1,6 +1,6 @@
 # Protfolio
 
-# [About me   ] ( https://github.com/ashutoshrazz )
+# [About me   ] (https://github.com/ashutoshrazz)
 
 ## I put my project under four repositories  :
 - Python Project [link of the project ]
