@@ -3,15 +3,15 @@
 # [About me   ](https://github.com/ashutoshrazz)
 
 ## I put my project under four repositories  :
-- Python Project [link of the project ]
-- Data Analysis  [https://github.com/dataAnalyst]
-- Dashboard    [link of the project]
+-[ Python Project ](link of the project )
+-[ Data Analysis ](https://github.com/dataAnalyst)
+ -[ Dashboard  ](link of the project)
 
 
   # Checkout my other profiles :
-   - LinkdIn [https://www.linkedin.com/in/ashutosh-raj-73a935148/]
-   - HackerEarth [https://www.hackerearth.com/@ashutoshking0123]
-   - HackerRank 
+   - [LinkdIn](https://www.linkedin.com/in/ashutosh-raj-73a935148/)
+   - [HackerEarth](https://www.hackerearth.com/@ashutoshking0123)
+   - [HackerRank](link of the profile) 
  
   # Python Project [link of the project]
       ## 1 . project one
